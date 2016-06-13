@@ -1,0 +1,2 @@
+The number of lines for searches.csv is: 20390198
+The number of lines for bookings.csv is: 10000011
