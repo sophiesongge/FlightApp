@@ -1,0 +1,22 @@
+   arrival_airport  passenger_number
+66             LHR           86419.0
+72             MCO           61900.0
+62             LAX           58810.0
+61             LAS           57844.0
+55             JFK           50410.0
+19             CDG           40870.0
+77             MIA           40865.0
+8              BKK           38460.0
+97             SFO           36945.0
+35             DXB           32940.0
+
+LHR = Heathrow Airport, London, England, United Kingdom
+MCO = Orlando International Airport, Orlando, Florida, United States
+LAX = Los Angeles International Airport, Los Angeles, California, United States
+LAS = McCarran International Airport, Las Vegas, Nevada, United States
+JFK = John F. Kennedy International Airport, New York City, New York, United States
+CDG = Charles de Gaulle Airport (Roissy Airport), Paris, Île-de-France, France
+MIA = Miami International Airport, Miami, Florida, United States
+BKK = Suvarnabhumi Airport, Bangkok, Thailand
+SFO = San Francisco International Airport, San Francisco, California, United States
+DXB = Dubai International Airport, Dubai, United Arab Emirates
